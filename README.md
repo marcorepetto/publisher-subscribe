@@ -12,6 +12,7 @@ Universidad Técnica Federico Santa María
 |---|---|
 | *Benjamín López* | *202273081-1* |
 | *Marco Repetto* | *202103059-k* | 
+| *Rock Dabre* | *202173077-k* | 
 
 
 ## 2. Descripción General de la Arquitectura
